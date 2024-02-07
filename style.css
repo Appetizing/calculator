@@ -41,11 +41,11 @@ button{
     color: white;
     background-color: #ACB5AF;
 }
-.clear{
+#clear{
     width: 154px;
     background-color: #FF8989;
 }
-.delete{
+#delete{
     width: 154px;
 }
 .previousOperation{
